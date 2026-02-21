@@ -1,0 +1,15 @@
+# executables (common)
+a.out
+*.out
+*.exe
+
+# typical compiled binaries (Linux)
+main
+*.o
+*.obj
+
+# macOS
+*.dSYM/
+
+# editor junk
+.DS_Store
