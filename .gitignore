@@ -13,3 +13,16 @@ main
 
 # editor junk
 .DS_Store
+
+# Ignore compiled executables
+HW01/P1
+HW01/P2
+HW01/P3
+HW01/P4
+HW01/P5
+HW01/P6
+
+# Generic compiled files
+*.out
+*.exe
+a.out
