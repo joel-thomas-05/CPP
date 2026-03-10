@@ -1,6 +1,6 @@
-**Author:** Joel Thomas
-**Course:** ENBC 312
-**Instructor:** Dr. Lee
+**Author:** Joel Thomas <br>
+**Course:** ENBC 312 <br>
+**Instructor:** Dr. Lee <br>
 **Date:** 03/10/2026
 
 # HW 02 Problems
