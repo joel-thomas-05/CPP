@@ -300,7 +300,7 @@ public:
 
     void sortCars() {
         if (inventory.empty()) {
-            cout << "\nNo cars to sort.\n";
+            cout << "\nThe inventory is empty, no cars to sort.\n";
             return;
         }
 
@@ -374,9 +374,9 @@ int main() {
         } else if (choice == 6) {
             system.sortCars();
         } else if (choice == 7) {
-            cout << "Exiting Car Rental System. Goodbye!\n";
+            cout << "You are now leaving the Car Rental System.\n";
         } else {
-            cout << "Invalid choice. Please enter a number from 1 to 7.\n";
+            cout << "Invalid choice. Need to choose a number between 1 to 7.\n";
         }
 
     } while (choice != 7);
